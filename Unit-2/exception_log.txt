@@ -1,0 +1,2 @@
+2026-03-13 11:26:40,449 - ERROR - ArithmeticException (ZeroDivisionError): division by zero | Values: a =5, b=0
+2026-03-13 11:26:40,463 - ERROR - ArithmeticException (ZeroDivisionError): division by zero | Values: a =9, b=0
