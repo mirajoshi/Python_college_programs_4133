@@ -1,0 +1,4 @@
+Hello, welcome to Python file handling.
+This is a sample text file.
+We will read this file and count the words.
+Python makes file handling very easy.
