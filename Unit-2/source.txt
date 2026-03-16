@@ -1,0 +1,4 @@
+Hello and welcome to Python.
+This is a source file.
+We will copy this file to destination.
+File handling in Python is simple.
