@@ -1,0 +1,5 @@
+1,Sahil Parmar,85,90,78,92
+2,Rucha Joshi,89,90,96,95
+3,Krina Joshi,60,55,70,65
+4,Sahil Ahuja,45,50,40,55
+5,Sakshi Aagath,95,98,92,97
